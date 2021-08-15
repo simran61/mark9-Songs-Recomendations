@@ -1,2 +1,3 @@
 # mark9-Songs-Recomendations
-Created with CodeSandbox
+This app built in ReactJs on code-sandbox.
+This app will out some of my favourite songs which I recommend you to listen.
